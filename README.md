@@ -79,6 +79,7 @@ Software: Licenced under version 2.0 of the MPL
 
   https://www.mozilla.org/MPL/
 
+Fonts: Licensed under version 1.1 of the SIL Open Font License
 
-  
+  http://scripts.sil.org/OFL
 
